@@ -1,0 +1,30 @@
+body{
+ background-color: white;
+ display-content: flex;
+ content: direction: column;
+ 
+}
+header{
+    background-color: blue;
+    content: center;
+
+}
+main{
+    background-color: white;
+    width: 100px;
+
+
+}
+section{
+
+}
+aside{
+
+}
+div{
+
+}
+footer{
+
+}
+ 
